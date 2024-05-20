@@ -1,5 +1,6 @@
 <div class="heading">
-  <h1>This is my map App</h1>
+  <img src="./borpa_be_licking.gif" alt="Where is borpa?">
+  <h1>Borpa be Mapping</h1>
 </div>
 
 <style>
@@ -8,6 +9,9 @@
     padding: 0px;
     background-color: black;
     color: white;
+	display: flex;
+    align-items: center;
+    justify-content: center;
   }
 
   .heading > h1 {
